@@ -142,6 +142,8 @@ result of call is: None
 >     print('pressure is', pressure)
 >
 > print('calling', report, 22.5)
+> ~~~
+> {: .python}
 {: .challenge}
 
 > ## Encapsulation
@@ -186,6 +188,7 @@ result of call is: None
 > {: .python}
 >
 > printed:
+> 
 > ~~~
 > 1871/3/19
 > result of call is: None
