@@ -89,7 +89,7 @@ FUNCTIONS
 *   Then refer to them directly without library name as prefix.
 
 ~~~
-from math load cos, pi
+from math import cos, pi
 
 print('cos(pi) is', cos(pi))
 ~~~
