@@ -14,3 +14,4 @@ Maintainer(s):
 
 [lesson-example]: https://swcarpentry.github.com/lesson-example/
 [wilson-greg]: http://software-carpentry.org/team/#wilson_g
+
